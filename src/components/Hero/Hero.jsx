@@ -12,7 +12,7 @@ function Hero() {
             <Link to="/Reservation" className={styles.resbtn} >Reservation</Link>
         </div>
         <div className={styles.imagepart}>
-            <img src="./assets/restauranfood.jpg" alt="restaurantfood" />
+            <img src="assets/restauranfood.jpg" alt="restaurantfood" />
         </div>
     </div>
   )

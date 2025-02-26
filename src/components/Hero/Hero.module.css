@@ -74,7 +74,7 @@
         box-sizing: border-box;
         padding-left: 1rem;
         background-color: #495E57;
-        background-image: url("./src/assets/restauranfood.jpg");
+        background-image: url("assets/restauranfood.jpg");
         background-size: cover;
         background-blend-mode: multiply;
         width: 100%;
