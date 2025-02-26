@@ -11,7 +11,7 @@ function About() {
         </div>
     </div>
     <div className={styles.aboutimage}>
-        <img src="./src/assets/1Mario and Adrian b2.jpg" alt="Mario and Adrian" />
+        <img src="./assets/1Mario and Adrian b2.jpg" alt="Mario and Adrian" />
     </div>
     </div>
   )

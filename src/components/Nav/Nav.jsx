@@ -24,7 +24,7 @@ function Nav() {
     
     <nav >
         <ul  className={responsive}>
-          <button id={styles.closeNav} onClick={opencloseNav}><img src="./src/assets/x-icon2.svg" alt="X icon"  width={16} height={16} /></button>
+          <button id={styles.closeNav} onClick={opencloseNav}><img src="./assets/x-icon2.svg" alt="X icon"  width={16} height={16} /></button>
           <Link to="/" className={styles.links} onClick={closeNav}>Home</Link>
           <Link to="/about" className={styles.links} onClick={closeNav}>About</Link>
           <Link to="/menu" className={styles.links} onClick={closeNav}>Menu</Link>
@@ -33,7 +33,7 @@ function Nav() {
           <Link to="/login" className={styles.links} onClick={closeNav}>Login</Link>
             
         </ul>
-        <button id={styles.openNav} onClick={opencloseNav}><img src="./src/assets/menu-icon.svg" alt="menu icon"  width={16} height={16} color='green' /></button>
+        <button id={styles.openNav} onClick={opencloseNav}><img src="./assets/menu-icon.svg" alt="menu icon"  width={16} height={16} color='green' /></button>
     </nav>
     
    
