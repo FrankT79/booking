@@ -11,7 +11,7 @@ function Card() {
     </div>
     <div className={styles.container}>
     <div className={styles.card}>
-        <img src="./assets/1greek salad.jpg" alt="greek salad" />
+        <img src="assets/1greek salad.jpg" alt="greek salad" />
         <div className={styles.titleContainer}>
             <p className={styles.title}>Greek Salad</p>
             <p className={styles.price}>€ 25</p>
@@ -19,7 +19,7 @@ function Card() {
         <p className={styles.description}>Lorem ipsum something Lorem ipsum something Lorem ipsum something Lorem ipsum something</p>
     </div>
     <div className={styles.card}>
-        <img src="./assets/bruchetta.svg" alt="bruchetta" />
+        <img src="assets/bruchetta.svg" alt="bruchetta" />
         <div className={styles.titleContainer}>
             <p className={styles.title}>Bruchetta</p>
             <p className={styles.price}>€ 25</p>
@@ -27,7 +27,7 @@ function Card() {
         <p className={styles.description}>Lorem ipsum something Lorem ipsum something Lorem ipsum something Lorem ipsum something</p>
     </div>
     <div className={styles.card}>
-        <img src="./assets/1lemon dessert.jpg" alt="lemon dessert" />
+        <img src="assets/1lemon dessert.jpg" alt="lemon dessert" />
         <div className={styles.titleContainer}>
             <p className={styles.title}>Lemon dessert</p>
             <p className={styles.price}>€ 25</p>
