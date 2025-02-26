@@ -7,7 +7,7 @@ function Footer() {
     <footer>
       <div className={styles.bigbox}>
         <div>
-            <img src="./src/assets/Logo mono.png" alt="Little Lemon Logo" />
+            <img src="assets/Logo mono.png" alt="Little Lemon Logo" />
           </div>
         <div>
             <h3>Links</h3>
